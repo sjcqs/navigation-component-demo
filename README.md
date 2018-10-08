@@ -1,3 +1,3 @@
 # Navigation component demo
 
-Demo for [https://developer.android.com/topic/libraries/architecture/navigation/](The Navigation Architecture Component)
+Demo for [The Navigation Architecture Component](https://developer.android.com/topic/libraries/architecture/navigation/)
