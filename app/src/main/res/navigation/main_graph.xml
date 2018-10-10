@@ -47,6 +47,7 @@
         android:label="fragment_welcome"
         tools:layout="@layout/fragment_welcome"
         >
+        <!-- Fragment's argument, argType is use along with safe-args -->
         <argument
             android:name="name"
             app:argType="string"
@@ -82,6 +83,7 @@
             android:name="com.example.applidium.navcontroller.FifthFragment"
             tools:layout="@layout/fragment_fifth"
             >
+            <!-- You can set the transitions between screens -->
             <action
                 android:id="@+id/action_fifthFragment_to_sixthFragment"
                 app:destination="@id/sixthFragment"
